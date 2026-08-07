@@ -5,12 +5,14 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
