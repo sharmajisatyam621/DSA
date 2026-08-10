@@ -33,10 +33,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 ## Counting
 |  |
@@ -49,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
