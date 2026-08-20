@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sharmajisatyam621/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
@@ -39,22 +40,26 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 ## String
 |  |
@@ -91,6 +96,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sharmajisatyam621/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
