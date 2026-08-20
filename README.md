@@ -62,6 +62,7 @@
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -76,6 +77,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 ## Binary Search
 |  |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
