@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/sharmajisatyam621/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sharmajisatyam621/DSA/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/sharmajisatyam621/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
+| [0168-excel-sheet-column-title](https://github.com/sharmajisatyam621/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
