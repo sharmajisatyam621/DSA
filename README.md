@@ -25,6 +25,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sharmajisatyam621/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharmajisatyam621/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/sharmajisatyam621/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
