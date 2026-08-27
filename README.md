@@ -25,6 +25,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
@@ -109,6 +111,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
