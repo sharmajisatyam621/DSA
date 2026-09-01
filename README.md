@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sharmajisatyam621/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sharmajisatyam621/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sharmajisatyam621/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
