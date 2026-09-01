@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sharmajisatyam621/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sharmajisatyam621/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
