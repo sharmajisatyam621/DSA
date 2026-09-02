@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sharmajisatyam621/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sharmajisatyam621/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sharmajisatyam621/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
@@ -145,4 +147,20 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharmajisatyam621/DSA/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
