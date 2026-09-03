@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/sharmajisatyam621/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sharmajisatyam621/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sharmajisatyam621/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sharmajisatyam621/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sharmajisatyam621/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
