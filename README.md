@@ -19,6 +19,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sharmajisatyam621/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/sharmajisatyam621/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/sharmajisatyam621/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
