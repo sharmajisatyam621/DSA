@@ -21,6 +21,7 @@
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sharmajisatyam621/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
@@ -121,6 +122,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
@@ -208,4 +210,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sharmajisatyam621/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/sharmajisatyam621/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sharmajisatyam621/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
