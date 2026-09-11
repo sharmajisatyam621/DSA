@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/sharmajisatyam621/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -104,6 +105,7 @@
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
