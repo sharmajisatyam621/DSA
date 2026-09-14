@@ -62,6 +62,7 @@
 | [0168-excel-sheet-column-title](https://github.com/sharmajisatyam621/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/sharmajisatyam621/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0836-rectangle-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sharmajisatyam621/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/sharmajisatyam621/DSA/tree/master/3870-count-commas-in-range) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
