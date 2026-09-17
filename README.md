@@ -28,6 +28,7 @@
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmajisatyam621/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -83,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/sharmajisatyam621/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -141,6 +143,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -158,6 +161,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -165,6 +169,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharmajisatyam621/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
