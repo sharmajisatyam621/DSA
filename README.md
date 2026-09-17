@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sharmajisatyam621/DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
@@ -161,6 +163,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -168,6 +171,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharmajisatyam621/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
