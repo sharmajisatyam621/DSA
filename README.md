@@ -31,6 +31,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharmajisatyam621/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmajisatyam621/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -149,6 +150,7 @@
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharmajisatyam621/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -178,6 +180,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharmajisatyam621/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharmajisatyam621/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
