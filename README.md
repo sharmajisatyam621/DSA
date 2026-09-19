@@ -71,6 +71,7 @@
 | [0202-happy-number](https://github.com/sharmajisatyam621/DSA/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0836-rectangle-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sharmajisatyam621/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sharmajisatyam621/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/sharmajisatyam621/DSA/tree/master/3870-count-commas-in-range) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sharmajisatyam621/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Breadth-First Search
 |  |
 | ------- |
