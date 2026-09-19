@@ -33,6 +33,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharmajisatyam621/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/sharmajisatyam621/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmajisatyam621/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -142,6 +143,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1732-find-the-highest-altitude](https://github.com/sharmajisatyam621/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
