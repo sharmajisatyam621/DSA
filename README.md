@@ -135,6 +135,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,4 +300,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
