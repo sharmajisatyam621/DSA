@@ -29,6 +29,7 @@
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/sharmajisatyam621/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmajisatyam621/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/sharmajisatyam621/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/sharmajisatyam621/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
