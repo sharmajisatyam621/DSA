@@ -39,6 +39,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmajisatyam621/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sharmajisatyam621/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3525-find-x-value-of-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharmajisatyam621/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -78,6 +79,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/sharmajisatyam621/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sharmajisatyam621/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sharmajisatyam621/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/sharmajisatyam621/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sharmajisatyam621/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
