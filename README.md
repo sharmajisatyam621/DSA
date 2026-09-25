@@ -97,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/sharmajisatyam621/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sharmajisatyam621/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -115,6 +116,7 @@
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sharmajisatyam621/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -147,6 +149,7 @@
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sharmajisatyam621/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sharmajisatyam621/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
@@ -338,4 +343,8 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
