@@ -154,6 +154,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sharmajisatyam621/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/sharmajisatyam621/DSA/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -224,6 +225,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
