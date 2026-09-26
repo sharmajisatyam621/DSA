@@ -26,6 +26,7 @@
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sharmajisatyam621/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +228,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -344,6 +346,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/3498-reverse-degree-of-a-string) |
