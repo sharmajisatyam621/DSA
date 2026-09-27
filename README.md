@@ -149,6 +149,7 @@
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -228,6 +229,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sharmajisatyam621/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
