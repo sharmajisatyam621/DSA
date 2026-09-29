@@ -153,6 +153,7 @@
 | [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -197,6 +198,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -387,6 +389,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/sharmajisatyam621/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
