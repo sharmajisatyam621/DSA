@@ -144,6 +144,7 @@
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sharmajisatyam621/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/sharmajisatyam621/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -182,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sharmajisatyam621/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/sharmajisatyam621/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -383,11 +385,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sharmajisatyam621/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
