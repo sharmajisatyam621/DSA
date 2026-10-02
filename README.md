@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sharmajisatyam621/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharmajisatyam621/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sharmajisatyam621/DSA/tree/master/0013-roman-to-integer) |
@@ -261,6 +262,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sharmajisatyam621/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sharmajisatyam621/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sharmajisatyam621/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sharmajisatyam621/DSA/tree/master/0141-linked-list-cycle) |
@@ -270,6 +272,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sharmajisatyam621/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sharmajisatyam621/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sharmajisatyam621/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
