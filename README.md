@@ -160,6 +160,7 @@
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sharmajisatyam621/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -192,6 +193,7 @@
 | [0115-distinct-subsequences](https://github.com/sharmajisatyam621/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sharmajisatyam621/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -207,6 +209,7 @@
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/sharmajisatyam621/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -246,6 +249,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sharmajisatyam621/DSA/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -404,6 +408,7 @@
 | [0020-valid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sharmajisatyam621/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
