@@ -153,6 +153,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sharmajisatyam621/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sharmajisatyam621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sharmajisatyam621/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -408,6 +410,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
