@@ -45,6 +45,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharmajisatyam621/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3525-find-x-value-of-array-ii](https://github.com/sharmajisatyam621/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sharmajisatyam621/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -115,6 +116,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sharmajisatyam621/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
@@ -225,6 +227,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sharmajisatyam621/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sharmajisatyam621/DSA/tree/master/0136-single-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
