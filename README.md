@@ -41,6 +41,7 @@
 | [1732-find-the-highest-altitude](https://github.com/sharmajisatyam621/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sharmajisatyam621/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sharmajisatyam621/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sharmajisatyam621/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sharmajisatyam621/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -406,6 +407,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sharmajisatyam621/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sharmajisatyam621/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -427,6 +429,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sharmajisatyam621/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sharmajisatyam621/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/sharmajisatyam621/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sharmajisatyam621/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sharmajisatyam621/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
