@@ -49,6 +49,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sharmajisatyam621/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2352-equal-row-and-column-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/sharmajisatyam621/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sharmajisatyam621/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sharmajisatyam621/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -152,6 +153,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/sharmajisatyam621/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sharmajisatyam621/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2542-maximum-subsequence-score](https://github.com/sharmajisatyam621/DSA/tree/master/2542-maximum-subsequence-score) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sharmajisatyam621/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sharmajisatyam621/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -252,6 +254,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sharmajisatyam621/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharmajisatyam621/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2542-maximum-subsequence-score](https://github.com/sharmajisatyam621/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sharmajisatyam621/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sharmajisatyam621/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -321,6 +324,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharmajisatyam621/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharmajisatyam621/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sharmajisatyam621/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/sharmajisatyam621/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
 | ------- |
