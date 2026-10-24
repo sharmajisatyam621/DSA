@@ -268,6 +268,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sharmajisatyam621/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/sharmajisatyam621/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharmajisatyam621/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -613,4 +614,8 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/sharmajisatyam621/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sharmajisatyam621/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
