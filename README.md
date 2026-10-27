@@ -30,6 +30,7 @@
 | [0724-find-pivot-index](https://github.com/sharmajisatyam621/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/sharmajisatyam621/DSA/tree/master/0875-koko-eating-bananas) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
 | [0994-rotting-oranges](https://github.com/sharmajisatyam621/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -276,6 +277,7 @@
 | [0162-find-peak-element](https://github.com/sharmajisatyam621/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sharmajisatyam621/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/sharmajisatyam621/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/sharmajisatyam621/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sharmajisatyam621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sharmajisatyam621/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
