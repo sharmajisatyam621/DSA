@@ -29,6 +29,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/sharmajisatyam621/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sharmajisatyam621/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sharmajisatyam621/DSA/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/sharmajisatyam621/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/sharmajisatyam621/DSA/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/sharmajisatyam621/DSA/tree/master/0875-koko-eating-bananas) |
 | [0910-smallest-range-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0910-smallest-range-ii) |
@@ -250,6 +251,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sharmajisatyam621/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sharmajisatyam621/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/sharmajisatyam621/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/sharmajisatyam621/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sharmajisatyam621/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
