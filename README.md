@@ -137,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/sharmajisatyam621/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sharmajisatyam621/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/sharmajisatyam621/DSA/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/sharmajisatyam621/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sharmajisatyam621/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sharmajisatyam621/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sharmajisatyam621/DSA/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sharmajisatyam621/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -203,6 +205,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/sharmajisatyam621/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sharmajisatyam621/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sharmajisatyam621/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sharmajisatyam621/DSA/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sharmajisatyam621/DSA/tree/master/0399-evaluate-division) |
@@ -543,6 +546,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sharmajisatyam621/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/sharmajisatyam621/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/sharmajisatyam621/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
